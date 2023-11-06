@@ -26,3 +26,7 @@ def calculate_expression(expression):
     ]
 
     return number_words[result]
+
+
+a = input()
+print(calculate_expression(a))
